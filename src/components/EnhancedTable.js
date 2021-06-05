@@ -16,3 +16,12 @@ export default function EnhancedTable() {
             
         ],
     });
+
+    return(
+        <MaterialTable
+            title="Employee Database" 
+            
+            
+        />
+    );
+}
